@@ -1,0 +1,57 @@
+html {
+    background-color: tan;
+  }
+
+  div.third {
+    opacity: 0.6;
+  }
+
+  h1 {
+    
+      width: 300px;
+      border: 5px solid red;
+      padding: 50px;
+      margin: 20px;
+  }
+
+ h1 {
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: red;
+  
+ } 
+
+  h3 { 
+    width: 100px;
+      border: 5px solid rgba(255, 0, 0, 0.661);
+      padding: 20px;
+      margin: 5px;
+  }
+
+  h3 {
+    border: 2px solid black;
+    outline-style: dotted;
+    outline-color: rgba(255, 0, 0, 0.661);
+
+  }
+
+  h4 {
+    width: 75px;
+    border: 5px solid rgb(252, 119, 119);
+    padding: 20px;
+    margin: 5px;
+  }
+
+  h4 {
+    border: 2px solid black;
+    outline-style: dotted;
+    outline-color: rgb(252, 119, 119);
+  }
+
+
+h5 {
+  width: 150px;
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: blue;
+}
